@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.Rhistory
+build/
+dist/
+*.mzML
+*.mzXML
+*.raw
+tmp_*
+*_metrics.csv
+*.npz
+.DS_Store

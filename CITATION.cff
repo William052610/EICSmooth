@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use EICSmooth, please cite this software and the associated article."
+title: "EICSmooth"
+type: software
+abstract: "A GUI tool for evaluating smoothing-induced changes in LC-MS extracted-ion chromatogram morphology."
+authors:
+  - family-names: "Lee"
+    given-names: "Gun Woo"
+    affiliation: "Konkuk University"
+    email: "dlrjsdn0526@konkuk.ac.kr"
+version: "1.0"
+date-released: 2026-08-10
+license: LGPL-3.0-only
+repository-code: "https://github.com/William052610/EICSmooth"
+keywords:
+  - LC-MS
+  - metabolomics
+  - smoothing
+  - extracted ion chromatogram
+  - peak morphology

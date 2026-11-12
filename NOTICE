@@ -1,0 +1,28 @@
+Apache Commons Math upstream notices
+
+The following notices are from the Apache Commons Math source distribution
+at commit f2fdc3968bdb7627029d84867398fa0af3cf0c84.
+
+Repository-root NOTICE
+
+Apache Commons Math
+Copyright 2001-2025 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software developed for Orekit by
+CS Systèmes d'Information (http://www.c-s.fr/)
+Copyright 2010-2012 CS Systèmes d'Information
+
+commons-math-legacy/NOTICE
+
+Apache Commons Math
+Copyright 2001-2022 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software developed for Orekit by
+CS Systèmes d'Information (http://www.c-s.fr/)
+Copyright 2010-2012 CS Systèmes d'Information

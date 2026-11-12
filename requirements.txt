@@ -1,0 +1,4 @@
+# Install EICSmooth and the exact runtime dependencies declared in
+# pyproject.toml. Run this command from the repository root:
+#   python -m pip install -r requirements.txt
+.
